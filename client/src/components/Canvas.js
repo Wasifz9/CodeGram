@@ -41,7 +41,7 @@ import MenuItem from "@mui/material/MenuItem";
 import { Typography } from "@mui/material";
 import CanvasFile from "./CanvasFile";
 import { TextComponent } from "../canvas/text";
-
+// comment for pr
 // import template from "../Templates/FullStackTemplate.json";
 import ControlTemplate from "../Templates/ControlTemplate.json";
 import ControlTemplate2 from "../Templates/ControlTemplate2.json";
